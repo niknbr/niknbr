@@ -1,4 +1,5 @@
 ### Hi there 👋
+- :egg: Minimalist :scroll: Javascripter 
 
 <!--
 **niknbr/niknbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
